@@ -10,8 +10,8 @@ Here the task is of creating a MLP(Multilayer Perceptron) using keras and tensor
 5) Train the model
 6) Evaluate Model on Test data
 
-References:
+### References:
 MLP -->  https://en.wikipedia.org/wiki/Multilayer_perceptron#:~:text=A%20multilayer%20perceptron%20(MLP)%20is,activation)%3B%20see%20%C2%A7%20Terminology.
-Tensorflow --> https://www.tensorflow.org/install/pip
-Sequential Model Keras --> https://www.tensorflow.org/guide/keras/sequential_model
-Early Stopping callbacks --> https://www.tensorflow.org/api_docs/python/tf/keras/callbacks/EarlyStopping
+Tensorflow --> https://www.tensorflow.org/install/pip.
+Sequential Model Keras --> https://www.tensorflow.org/guide/keras/sequential_model.
+Early Stopping callbacks --> https://www.tensorflow.org/api_docs/python/tf/keras/callbacks/EarlyStopping.
