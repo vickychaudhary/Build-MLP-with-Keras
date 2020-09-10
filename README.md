@@ -1,6 +1,6 @@
 # Build-MLP-with-Keras
 
-Here the task is of creating a MLP(Multilayer Perceptron) using keras as backend as tensorflow on reuters dataset.
+Here the task is of creating a MLP(Multilayer Perceptron) using keras and tensorflow on reuters dataset.
 
 ## Tasks To Perform
 1) Import required libraries
